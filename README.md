@@ -20,7 +20,7 @@
 - **/view_scores**: Выводит сохраненные баллы ученика.
 
 ## Стек
-- Aiogram:
+- Aiogram
 - SQLAlchemy
 - Alembic
 - Docker
